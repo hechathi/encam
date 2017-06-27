@@ -1,2 +1,2 @@
 # encam
-Epoxy Nano Composit Atomistic Modeller
+Epoxy NanoComposite Atomistic Modeller
