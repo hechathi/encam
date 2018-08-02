@@ -1,2 +1,3 @@
-# encam
+# xlinker
+
 Epoxy NanoComposite Atomistic Modeller
