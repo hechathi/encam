@@ -1,3 +1,3 @@
 # xlinker
 
-Epoxy NanoComposite Atomistic Modeller
+Epoxy - Amine Crosslink Atomistic Modeller
